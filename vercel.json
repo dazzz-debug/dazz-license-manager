@@ -1,7 +1,3 @@
 {
-  "functions": {
-    "api/tokens.js": {
-      "runtime": "nodejs20.x"
-    }
-  }
+  "version": 2
 }
