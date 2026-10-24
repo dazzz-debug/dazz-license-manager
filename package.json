@@ -1,0 +1,7 @@
+{
+  "name": "spider-license-panel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Private GitHub token-license API and owner panel for Vercel",
+  "scripts": { "start": "vercel dev" }
+}
