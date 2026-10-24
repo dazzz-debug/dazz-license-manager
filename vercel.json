@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/tokens.js": {
-      "maxDuration": 10
-    }
-  }
-}
